@@ -15,6 +15,6 @@ export const answersList: IAnswer[] = [
   { text: 'Истина где-то рядом!', type: 'neutral' },
   { text: 'Духи обалдели', type: 'neutral' },
   { text: 'Ну и вопрос', type: 'neutral' },
-  { text: 'Не смей - духи недовольны!', type: 'negative' },
+  { text: 'Не смей - духи в ярости!', type: 'negative' },
   { text: 'Nope', type: 'negative' },
 ];
