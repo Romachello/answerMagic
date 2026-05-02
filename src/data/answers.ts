@@ -7,6 +7,7 @@ export const answersList: IAnswer[] = [
   { text: 'Бесспорно', type: 'positive' },
   { text: 'Определённо да', type: 'positive' },
   { text: 'Никаких сомнений', type: 'positive' },
+  { text: 'YES', type: 'positive' },
   { text: 'Может быть', type: 'neutral' },
   { text: 'Спроси позже', type: 'neutral' },
   { text: 'Даже не думай', type: 'negative' },
